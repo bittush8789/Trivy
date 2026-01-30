@@ -39,4 +39,4 @@ trivy image -f json -o results.json image_name
 
 trivy repo repo-url
 
-trivy k8s --report summary cluster   ```
+trivy k8s --report summary cluster 
